@@ -140,3 +140,8 @@ table {
 canvas {
   background-color: black;
 }
+
+/* Add a white border */
+img {
+  border: 2px solid #ffffff; 
+}
